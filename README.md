@@ -1,4 +1,4 @@
-### Apaixonado por tecnologia!
+### Me chamo Paulo Henrique e atuo como Desenvolvedor FullStack. Tenho uma paixão constante pelo aprendizado contínuo em programação, o que me permite melhorar minhas competências e evoluir tanto no âmbito pessoal quanto no profissional.
 
 <div align="center">
   <a href="https://github.com/phlvss">
