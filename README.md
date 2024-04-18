@@ -1,5 +1,21 @@
-### Hello, my name is Paulo Henrique.
-###
+# Olá, Mundo! 👋
+
+Meu nome é Paulo Henrique e sou um desenvolvedor back-end formado em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Sistemas de Informações.
+
+## 🛠️ Habilidades Técnicas
+
+- **Linguagens de Programação**: Java, HTML, CSS, SQL, PHP, Python
+- **Ferramentas e Tecnologias**: Git, GitHub
+
+## 📚 Estou Aprendendo
+
+Atualmente, estou aprofundando meus conhecimentos em Python e Analisé de Dados.
+
+## 📫 Contato
+
+Sinta-se à vontade para entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/phlvss/).
+
+
 <div align="center">
   <a href="https://github.com/phlvss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phlvss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
