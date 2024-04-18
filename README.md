@@ -9,7 +9,7 @@ Meu nome é Paulo Henrique e sou um desenvolvedor back-end formado em Análise e
 
 ## 📚 Estou Aprendendo
 
-Atualmente, estou aprofundando meus conhecimentos em Python e Analisé de Dados.
+Atualmente, estou aprofundando meus conhecimentos em Python e Análise de Dados.
 
 ## 📫 Contato
 
