@@ -4,7 +4,7 @@ Meu nome é Paulo Henrique e sou um desenvolvedor back-end formado em Análise e
 
 ## 🛠️ Habilidades Técnicas
 
-- **Linguagens de Programação**: Java, HTML, CSS, SQL, PHP, Python
+- **Linguagens de Programação**: Java, JavaScrip, SQL, PHP, Python
 - **Ferramentas e Tecnologias**: Git, GitHub
 
 ## 📚 Estou Aprendendo
